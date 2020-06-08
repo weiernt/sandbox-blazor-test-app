@@ -1,0 +1,43 @@
+﻿@page "/counter"
+
+<h1>Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    class People
+    {
+        public string Name {get; private set;}
+        public int Age {get; private set;} =0;
+        
+        public People (string name, int age) 
+        {
+            this.Name = name;
+            this.Age = age;
+        }
+    }
+    
+    private People[] peeps = {new People("John Campbell", 25), new People ("Lambert Peck", 24), new People ("Elizabeth Snow", 41)};
+    
+    
+    
+    private int currentCount = 0;
+    
+    public double notSecretNumber = 24;
+
+    [Parameter]
+    public int IncrementAmount {get; set;} = 1;
+    
+    private void IncrementCount()
+    {
+        currentCount+= IncrementAmount;
+    }
+}
+
+@foreach (var person in peeps)
+{
+    <p>@person.Name</p>
+}
+
