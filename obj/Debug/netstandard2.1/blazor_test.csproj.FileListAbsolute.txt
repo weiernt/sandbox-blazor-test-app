@@ -354,6 +354,6 @@ C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\static
 C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\staticwebassets\blazor_test.StaticWebAssets.xml
 C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\blazor_test.dll
 C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\blazor_test.pdb
-C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\integrity\h87umGn5TQDXUJXQ9Uf2ioA4FUBRywYuqCSqJJ83gsM=.hash
-C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\integrity\fZuFnMJyCqHAfefBZIqZQSfGbc6Gu-3Te7wgkkned2Y=.hash
-C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\integrity\1Ni0622d-sxR_Dojmtx1d_x21n6rREmJc6V3H3PSLIk=.hash
+C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\integrity\ZeFfalR-1tto98HY1t05-dIA5Zzc2KhwPyrRXIEsLDY=.hash
+C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\integrity\0oNrbM5f9CNkcBA_cd8SESD4T79jYBRGlJFqU192BME=.hash
+C:\Users\TanW\Documents\DOTNET_files\blazor_test\obj\Debug\netstandard2.1\integrity\CJ8roV5_ywptAPJBgvw6f1nyH7ZVSVRWIMtXxFnBUwc=.hash

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "puInEcF3ltV3Vf4DmgpBtr9EQj49xOiWVh8h+Fy5GTkvZMcsIIfyLYi6GhOMw+begw4R67QHLzYP7UTtZ4XTBw==",
+  "dgSpecHash": "2zjXux23wYwrSsZIUq9ycFIJc3SvlvbfElpMMhDZwD/hq2dCV8UogfY9Y27qFJ9OY8B3KTIdQlKb7hyFqPX1xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\TanW\\Documents\\DOTNET_files\\blazor_test\\blazor_test.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\TanW\\.nuget\\packages\\bootstrap\\4.5.0\\bootstrap.4.5.0.nupkg.sha512",
+    "C:\\Users\\TanW\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.3\\microsoft.aspnetcore.authorization.3.1.3.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.3\\microsoft.aspnetcore.components.3.1.3.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.3\\microsoft.aspnetcore.components.analyzers.3.1.3.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\TanW\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\microsoft.jsinterop\\3.1.3\\microsoft.jsinterop.3.1.3.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.0\\microsoft.jsinterop.webassembly.3.2.0.nupkg.sha512",
+    "C:\\Users\\TanW\\.nuget\\packages\\popper.js\\1.16.0\\popper.js.1.16.0.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\TanW\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
